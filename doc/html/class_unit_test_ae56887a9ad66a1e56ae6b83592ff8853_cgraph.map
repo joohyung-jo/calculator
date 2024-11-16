@@ -1,0 +1,6 @@
+<map id="UnitTest::TEST_DIVIDER_009" name="UnitTest::TEST_DIVIDER_009">
+<area shape="rect" id="node2" href="$class_divider.html#a9ad36a8f4e98e34c7c13db0d1f933644" title="Get the input data storage. " alt="" coords="278,5,402,47"/>
+<area shape="rect" id="node3" href="$class_divider.html#a2792cd2d503cfbe2d1bd6bc48477bda4" title="Get the result of Divider. " alt="" coords="276,71,404,98"/>
+<area shape="rect" id="node4" href="$class_divider.html#a410ca0776b01b610646b1ad3e2674a0d" title="virtual method to read input data " alt="" coords="259,122,421,149"/>
+<area shape="rect" id="node5" href="$class_divider.html#ac2a34f072e908bd7b777866c0b2caaf0" title="Calculate from the input storage. " alt="" coords="279,173,401,199"/>
+</map>
